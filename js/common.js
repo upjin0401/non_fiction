@@ -168,7 +168,7 @@ $(document).ready(function () {
 
 
     $(window).scroll(function () {
-        if ($(this).scrollTop() > 4400) {
+        if ($(this).scrollTop() > 4000) {
             $('.rotate_logo').hide();
           
         } 
